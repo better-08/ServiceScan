@@ -5,7 +5,7 @@
 [![Shell](https://img.shields.io/badge/shell-sh-brightgreen.svg)](https://en.wikipedia.org/wiki/Shell_script)
 
 一个轻量级、零依赖的 Linux 资产扫描与服务识别脚本。旨在“一键式”自动化获取宿主机、容器及 K8s 集群中的中间件、数据库及应用服务的详细版本信息。
-
+便于结合作业平台进行批量扫描。
 ---
 
 ## ✨ 核心特性
